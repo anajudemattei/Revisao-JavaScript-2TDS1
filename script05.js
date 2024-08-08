@@ -1,4 +1,4 @@
-var paes = ["Pão Australiano", "Pão Brioche", "Pão de Gergelim"];
+let paes = ["Pão Australiano", "Pão Brioche", "Pão de Gergelim"];
 let molhos = ["Maionese", "Ketchup", "Mostarda", "Barbecue"];
 let saladas = ["Alface", "Tomate", "Cebola", "Picles"];
 let carnes = ["Carne Bovina", "Frango Grelhado", "Veggie Burger"];
