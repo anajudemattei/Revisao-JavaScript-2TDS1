@@ -13,5 +13,9 @@ hamburger.push(carnes[1]);
 hamburger.push(queijos[1]);
 
 for (let i = 0; i < hamburger.length; i++) {
-    console.log(hamburger[i]);
+    if (hamburger[i] == hamburger[0] && hamburger[i] == paes[0]) {
+        console.log ("Noooosa! Esse é dahora!");
+    } 
+        console.log(hamburger[i])
+    
 }
